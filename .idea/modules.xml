@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Learn.iml" filepath="$PROJECT_DIR$/Java-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing技术GUI/JavaSwing技术GUI.iml" filepath="$PROJECT_DIR$/JavaSwing技术GUI/JavaSwing技术GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java练习题/Java练习题.iml" filepath="$PROJECT_DIR$/Java练习题/Java练习题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a1_四种权限修饰符test/a1_四种权限修饰符test.iml" filepath="$PROJECT_DIR$/a1_四种权限修饰符test/a1_四种权限修饰符test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a2_值传递机制陷阱/a2_值传递机制陷阱.iml" filepath="$PROJECT_DIR$/a2_值传递机制陷阱/a2_值传递机制陷阱.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a3_构造器或又构造方法/a3_构造器或又构造方法.iml" filepath="$PROJECT_DIR$/a3_构造器或又构造方法/a3_构造器或又构造方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a4_接口/a4_接口.iml" filepath="$PROJECT_DIR$/a4_接口/a4_接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a5_JavaBean组件_拓展知识/a5_JavaBean组件_拓展知识.iml" filepath="$PROJECT_DIR$/a5_JavaBean组件_拓展知识/a5_JavaBean组件_拓展知识.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a6_1_this关键字/a6_1_this关键字.iml" filepath="$PROJECT_DIR$/a6_1_this关键字/a6_1_this关键字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a6_this关键字/a6_this关键字.iml" filepath="$PROJECT_DIR$/a6_this关键字/a6_this关键字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_0_JavaSwing技术基本框/a7_0_JavaSwing技术基本框.iml" filepath="$PROJECT_DIR$/a7_0_JavaSwing技术基本框/a7_0_JavaSwing技术基本框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_1_JavaSwing箱式布局效果/a7_1_JavaSwing箱式布局效果.iml" filepath="$PROJECT_DIR$/a7_1_JavaSwing箱式布局效果/a7_1_JavaSwing箱式布局效果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_2_JavaSwing网格布局效果/a7_2_JavaSwing网格布局效果.iml" filepath="$PROJECT_DIR$/a7_2_JavaSwing网格布局效果/a7_2_JavaSwing网格布局效果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_3_JavaSwing滚动条输入面板/a7_3_JavaSwing滚动条输入面板.iml" filepath="$PROJECT_DIR$/a7_3_JavaSwing滚动条输入面板/a7_3_JavaSwing滚动条输入面板.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_4_JavaSwing拆分栏滚动输入面板/a7_4_JavaSwing拆分栏滚动输入面板.iml" filepath="$PROJECT_DIR$/a7_4_JavaSwing拆分栏滚动输入面板/a7_4_JavaSwing拆分栏滚动输入面板.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_5_JavaSwing多窗口且含封装/a7_5_JavaSwing多窗口且含封装.iml" filepath="$PROJECT_DIR$/a7_5_JavaSwing多窗口且含封装/a7_5_JavaSwing多窗口且含封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a7_JavaSwing技术即图形GUI/a7_JavaSwing技术即图形GUI.iml" filepath="$PROJECT_DIR$/a7_JavaSwing技术即图形GUI/a7_JavaSwing技术即图形GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a8_1_JavaSwing键盘事件处理/a8_1_JavaSwing键盘事件处理.iml" filepath="$PROJECT_DIR$/a8_1_JavaSwing键盘事件处理/a8_1_JavaSwing键盘事件处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a2_值传递机制/值传递机制.iml" filepath="$PROJECT_DIR$/a2_值传递机制/值传递机制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a1_四种权限修饰符/四种权限修饰符.iml" filepath="$PROJECT_DIR$/a1_四种权限修饰符/四种权限修饰符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/接口/接口.iml" filepath="$PROJECT_DIR$/接口/接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a3_构造器或又构造方法/构造器或又构造方法.iml" filepath="$PROJECT_DIR$/a3_构造器或又构造方法/构造器或又构造方法.iml" />
+    </modules>
+  </component>
+</project>
