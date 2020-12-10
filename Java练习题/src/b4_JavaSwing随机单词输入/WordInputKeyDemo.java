@@ -6,14 +6,11 @@ package b4_JavaSwing随机单词输入;
 *
  */
 
-
-import java.awt.*;//简写
-import java.awt.event.*;
-//import java.awt.Dimension;//具体调用的包
-//import java.awt.Font;
-//import java.awt.Toolkit;
-//import java.awt.event.KeyAdapter;
-//import java.awt.event.KeyEvent;
+import java.awt.Dimension;//具体调用的包
+import java.awt.Font;
+import java.awt.Toolkit;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 import java.util.Random;
 
 import javax.swing.JFrame;
@@ -73,7 +70,6 @@ class keyDemo extends JFrame{
     }
 
     private void midifyLabel(){
-
         char ch = (char)(ran.nextInt(26)+0x41); //随机产生大写字母
         lbChar.setText(String.valueOf(ch));
         Font font = lbChar.getFont();
