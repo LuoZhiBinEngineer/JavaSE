@@ -28,9 +28,9 @@ public class Tarray {
         System.out.println(array2[1][0]);
 
         //获取二维数组的长度
-        System.out.println(array1.length);
-        System.out.println(array[1].length);//可以精确到数组内的数组元素个数
-        System.out.println(array[2].length);
+        System.out.println("整个二维数组的长度为："+array1.length);
+        System.out.println("二维数组的第一行的长度为："+array[1].length);//可以精确到数组内的数组元素个数
+        System.out.println("二维数组的第二行的长度为："+array[2].length);
 
         //二维数组的遍历
         for (int i = 0; i < array.length; i++) {
