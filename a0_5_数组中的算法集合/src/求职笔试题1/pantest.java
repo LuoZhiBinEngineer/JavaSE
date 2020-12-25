@@ -9,16 +9,16 @@ public class pantest {
     public static void main(String[] args) {
         int[] arr = new int[6];
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = (int) (Math.random() * 30) + 1;
+            arr[i] = (int) (Math.random() * 30) + 1; //随机给数组中的元素赋值，范围是30以内
 
-            for (int j = 0; j < i; j++) {
+            for (int j = 0; j < i; j++) {//比对全部检查是否有相同的数值
                 if (arr[i] == arr[j]) {
-                    i--;
+                    i--; //相同的话就i-1，重新开始赋值，后再比对
                     break;
                 }
             }
         }
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++) { //遍历输出数组内的元素
             System.out.print(arr[i] + " ");
         }
     }
