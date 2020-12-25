@@ -4,7 +4,7 @@ public class BinarySearch {
     public static void main(String[] args) {
         int[] a = {21, 45, 61, 65, 72, 83, 85, 90, 95};
         int index = find(a, 60);
-        System.out.println("该元素的索引位置为：" + index);
+        System.out.printf("该元素的索引位置为：%d",index);
     }
 
     public static int find(int[] a, int value) {
@@ -22,7 +22,6 @@ public class BinarySearch {
                 left = mid - 1;
         }
             return index;
-
     }
 }
 
