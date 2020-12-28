@@ -24,9 +24,11 @@ public class SwirlingArray {
 
         int[][] array = new int[len][len];
 
-        int s = len * len;
+        int s = len * len; //求出元素的个数
+
         /* k=1:向右 k=2:向下 k=3:向左 k=4:向上 */
         int k = 1;
+
         int i = 0, j = 0;
         for (int m = 1; m <= s; m++) {
             if (k == 1) {
