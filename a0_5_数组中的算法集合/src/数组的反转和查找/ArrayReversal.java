@@ -49,9 +49,15 @@ public class ArrayReversal {
                 break;
             }
         }
+        //方法一：
         if (isFlag) {
             System.out.print("很遗憾没有找到哦！");
         }
+        /*
+        方法二：因为在for循环内已经找完了一遍length了，所以跳出循环开始执行后面的内容
+        可以直接使用 if(i == arr1.length){
+                        System.out.print("很遗憾没有找到的啦!")
+         */
         System.out.println();
 
         //二分查找法
