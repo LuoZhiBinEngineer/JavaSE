@@ -1,4 +1,4 @@
-package a6_1_this关键字练习;
+package this关键字练习;
 
 public class boygirlTest {
     public static void main(String[] args) {
