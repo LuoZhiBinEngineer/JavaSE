@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Learn.iml" filepath="$PROJECT_DIR$/Java-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSwing技术GUI/JavaSwing技术GUI.iml" filepath="$PROJECT_DIR$/JavaSwing技术GUI/JavaSwing技术GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java测试文件夹/Java测试文件夹.iml" filepath="$PROJECT_DIR$/Java测试文件夹/Java测试文件夹.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java练习题/Java练习题.iml" filepath="$PROJECT_DIR$/Java练习题/Java练习题.iml" />
@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/a12_1_代码块/a12_1_代码块.iml" filepath="$PROJECT_DIR$/a12_1_代码块/a12_1_代码块.iml" />
       <module fileurl="file://$PROJECT_DIR$/a12_2_抽象类/a12_2_抽象类.iml" filepath="$PROJECT_DIR$/a12_2_抽象类/a12_2_抽象类.iml" />
       <module fileurl="file://$PROJECT_DIR$/a12_3_内部类/a12_3_内部类.iml" filepath="$PROJECT_DIR$/a12_3_内部类/a12_3_内部类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a12_4_异常处理/a12_4_异常处理.iml" filepath="$PROJECT_DIR$/a12_4_异常处理/a12_4_异常处理.iml" />
       <module fileurl="file://$PROJECT_DIR$/a1_1_四种权限修饰符test/a1_1_四种权限修饰符test.iml" filepath="$PROJECT_DIR$/a1_1_四种权限修饰符test/a1_1_四种权限修饰符test.iml" />
       <module fileurl="file://$PROJECT_DIR$/a1_2_封装性的练习/a1_2_封装性的练习.iml" filepath="$PROJECT_DIR$/a1_2_封装性的练习/a1_2_封装性的练习.iml" />
       <module fileurl="file://$PROJECT_DIR$/a1_3_package和import关键字/a1_3_package和import关键字.iml" filepath="$PROJECT_DIR$/a1_3_package和import关键字/a1_3_package和import关键字.iml" />

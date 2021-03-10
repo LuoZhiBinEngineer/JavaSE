@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Java-Learn" options="--add-exports jdk.scripting.nashorn/jdk.nashorn.internal.runtime.regexp.joni=ALL-UNNAMED" />
+      <module name="JavaSE" options="--add-exports jdk.scripting.nashorn/jdk.nashorn.internal.runtime.regexp.joni=ALL-UNNAMED" />
     </option>
   </component>
 </project>
